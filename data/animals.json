@@ -108,6 +108,16 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Allie",
+      "species": "alligator",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "introvert"
+      ],
+      "id": "11"
     }
   ]
 }
